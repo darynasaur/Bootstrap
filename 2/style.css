@@ -1,0 +1,27 @@
+
+
+.row div {
+    background-clip: content-box;
+    height: 800px;
+    border: 1px solid red;
+}
+
+.col-8 .height-200 {
+    height:200px;
+}
+
+.col-6.height-600 {
+    height: 600px;
+}
+
+.row.height-600 {
+    height: 600px;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+}

@@ -1,0 +1,23 @@
+.row div {
+    background-clip: content-box;
+    background-color: aquamarine;
+    border: 1px solid red;
+}
+
+
+.col-6, .col-4 {
+ height: 400px;   
+}
+
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+}
+
+.low {
+    height: 130px;
+}

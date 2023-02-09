@@ -1,0 +1,24 @@
+
+.row div {
+    background-clip: content-box;
+    background-color: aquamarine;
+    
+}
+
+
+.col-3 {
+    height: 600px;
+}
+
+
+.col-12 {
+    height: 130px;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+}
